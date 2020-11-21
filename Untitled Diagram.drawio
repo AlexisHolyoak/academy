@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2020-11-14T14:55:43.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="mmeyljnuZ8qUsIQKpaNr" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T00:52:50.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="_yHaN80OqS6cvODz2bgr" version="13.9.8" type="github">
   <diagram id="xve9VSHDwe71K9TJrwwD" name="Page-1">
     <mxGraphModel dx="1038" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WsxijE2wZDNCPGZVWNem-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="817" y="-175" width="170" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WsxijE2wZDNCPGZVWNem-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-100" width="170" height="150" as="geometry" />
+        </mxCell>
         <mxCell id="ukKqtIKaMFEU2Wy5thnZ-9" value="[5] A systematic review of Virtual Reality in education" style="text;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="485" y="445" width="290" height="30" as="geometry" />
         </mxCell>
@@ -30,6 +36,11 @@
         </mxCell>
         <mxCell id="q7VHJqxjKiBXPJjG447g-6" value="Planeamiento" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsxijE2wZDNCPGZVWNem-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="q7VHJqxjKiBXPJjG447g-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="60" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="q7VHJqxjKiBXPJjG447g-7" value="Requerimientos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="100" width="120" height="30" as="geometry" />
@@ -109,7 +120,7 @@
         <mxCell id="q7VHJqxjKiBXPJjG447g-31" value="Modelado 3D de las escenas VR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="-80" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wgjdgwg0XGl79N9iqUC4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q7VHJqxjKiBXPJjG447g-32" target="wgjdgwg0XGl79N9iqUC4-10">
+        <mxCell id="wgjdgwg0XGl79N9iqUC4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q7VHJqxjKiBXPJjG447g-32" target="wgjdgwg0XGl79N9iqUC4-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q7VHJqxjKiBXPJjG447g-32" value="Acceso libre al conocimiento" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -142,40 +153,41 @@
         <mxCell id="ukKqtIKaMFEU2Wy5thnZ-10" value="[5]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="370" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wgjdgwg0XGl79N9iqUC4-1" value="test de conocimientos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wgjdgwg0XGl79N9iqUC4-1" value="test de conocimientos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="420" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wgjdgwg0XGl79N9iqUC4-2" value="Estrategias pedagogicas y no pedagogicos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wgjdgwg0XGl79N9iqUC4-2" value="Estrategias pedagogicas y no pedagogicos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="-30" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wgjdgwg0XGl79N9iqUC4-3" value="Factores pedagogicos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-20" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wgjdgwg0XGl79N9iqUC4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wgjdgwg0XGl79N9iqUC4-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="-50" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wgjdgwg0XGl79N9iqUC4-5" value="Competencias educativas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-70" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wgjdgwg0XGl79N9iqUC4-6" value="Actividades" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-80" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="wgjdgwg0XGl79N9iqUC4-7" value="Capacidades" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="354" y="-55" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="wgjdgwg0XGl79N9iqUC4-8" value="Evaluaciones" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="354" y="-30" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="wgjdgwg0XGl79N9iqUC4-10" value="Adaptativo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wgjdgwg0XGl79N9iqUC4-10" value="Adaptativo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="835" y="35" width="102.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wgjdgwg0XGl79N9iqUC4-13" value="Evaluación de alumnos (personalidad)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="30" width="150" height="40" as="geometry" />
+        <mxCell id="wgjdgwg0XGl79N9iqUC4-13" value="Evaluación de alumnos (personalidad)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="-45" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wgjdgwg0XGl79N9iqUC4-15" value="&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 13px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;felder sylverman&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="837.5" y="-10" width="120" height="30" as="geometry" />
+        <mxCell id="wgjdgwg0XGl79N9iqUC4-15" value="&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 13px; font-style: normal; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;Felder y Sylverman&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="844" y="-195" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsxijE2wZDNCPGZVWNem-2" value="Actividades" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsxijE2wZDNCPGZVWNem-3" value="Capacidades" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="5" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="WsxijE2wZDNCPGZVWNem-7" value="Visuales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="-125" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsxijE2wZDNCPGZVWNem-8" value="Sensitivos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="-165" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsxijE2wZDNCPGZVWNem-9" value="Activos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="-90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsxijE2wZDNCPGZVWNem-10" value="Secuenciales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="-55" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WsxijE2wZDNCPGZVWNem-11" value="Inductivo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="-15" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
